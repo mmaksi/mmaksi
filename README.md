@@ -6,3 +6,4 @@
 - #### 🤸‍♂️ Calisthenics Athlete & Instructor 💻
 - #### 🎨 Portrait Artist
 - #### I ♥️ philosophy, psychology 📖, science ⚛️, biology 🧬 and maths 🧮.
+- #### 👉 my portfolio 👈
