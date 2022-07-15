@@ -6,4 +6,7 @@
 - #### 🤸‍♂️ Calisthenics Athlete & Instructor 💻
 - #### 🎨 Portrait Artist
 - #### I ♥️ philosophy, psychology 📖, science ⚛️, biology 🧬 and maths 🧮.
-- #### 👉 my portfolio 👈
+- #### 👉 [My portfolio](https://mark-maksi.netlify.app/) 👈
+
+### Technologies I use:
+JavaScript, React.js, Redux, Node.js, Express.js, MongoDB, PostgreSQL, Passport.js, JWT
