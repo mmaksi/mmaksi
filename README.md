@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 JavaScript Developer
 --------------------
 
-I'm a passionate self-taught developer with 1.5 years of hands-on experience. I love being nerdy and creating websites and web apps FOR people with empathy embedded in the UX of the apps in which I contribute.
+I'm a passionate self-taught developer with 2 years of hands-on experience. I love being nerdy and creating websites and web apps FOR people with empathy embedded in the UX of the apps in which I contribute.
 
 * 🌍  I'm based in Novara, Italy
 * ✉️  You can contact me at [mmaksi.dev@gmail.com](mailto:markmaksi@icloud.com)
