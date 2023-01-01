@@ -8,7 +8,7 @@ I'm a passionate self-taught developer with 2 years of hands-on experience. I lo
 
 * 🌍  I'm based in Novara, Italy
 * ✉️  You can contact me at [mmaksi.dev@gmail.com](mailto:markmaksi@icloud.com)
-* 🧠  I'm learning all about GraphQL
+* 🧠  I'm learning Machine Learning and Data Science :)
 * 🤝  I'm open to collaborating on any project with a passionate team.
 
 <a href="https://www.github.com/mmaksi" target="_blank" rel="noreferrer"><img
