@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mark Maksi
 ==================================================================================================================================
 
-JavaScript Developer
---------------------
+Javascrip/TypeScript Developer - React.js | Vue.js | Node.js | Deno | NestJS
+----------------------------------------------------------------------------
 
 I'm a passionate self-taught developer with 3 years of hands-on experience. I love being nerdy and creating websites and web apps FOR people with empathy embedded in the UX of the apps in which I contribute.
 
 * 🌍  I'm based in Novara, Italy
-* ✉️  You can contact me at [mmaksi.dev@gmail.com](mailto:markmaksi@icloud.com)
+* ✉️  You can contact me at [mmaksi.dev@gmail.com](mailto:mmaksi.dev@gmail.com)
 * 🧠  I'm learning System Design :)
 * 🤝  I'm open to collaborating on any project with a passionate team.
 
