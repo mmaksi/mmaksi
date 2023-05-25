@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mark Maksi
 ==================================================================================================================================
 
-Javascrip/TypeScript Developer - React.js | Vue.js | Node.js | Deno | NestJS
+JavaScript/TypeScript Developer - React.js | Vue.js | Node.js | Deno | NestJS
 ----------------------------------------------------------------------------
 
 I'm a passionate self-taught developer with 3 years of hands-on experience. I love being nerdy and creating websites and web apps FOR people with empathy embedded in the UX of the apps in which I contribute.
