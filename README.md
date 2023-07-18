@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 JavaScript/TypeScript Developer - React.js | Vue.js | Node.js | Deno | NestJS
 ----------------------------------------------------------------------------
 
-I'm a passionate self-taught developer with 3 years of hands-on experience. I love being nerdy and creating websites and web apps FOR people with empathy embedded in the UX of the apps in which I contribute.
+I'm a passionate JavaScript/TypeScript Meta certified developer with 3 years of experience. When I'm not coding, most likely I'm nourishing my passions in psychology and literature, drawing portraits or enjoying a calisthenics workout in nature. :)
 
 * 🌍  I'm based in Novara, Italy
 * ✉️  You can contact me at [mmaksi.dev@gmail.com](mailto:mmaksi.dev@gmail.com)
-* 🧠  I'm learning System Design :)
+* 🧠  I'm preparing for AWS Cloud Practicioner and Solutions Architect certificate :)
 * 🤝  I'm open to collaborating on any project with a passionate team.
 
 <a href="https://www.github.com/mmaksi" target="_blank" rel="noreferrer"><img
