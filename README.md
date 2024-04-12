@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mark Maksi
 ==================================================================================================================================
 
-JavaScript/TypeScript Developer - React.js | Vue.js | Node.js | Deno | NestJS
+JavaScript/TypeScript Developer - React.js | Node.js
 ----------------------------------------------------------------------------
 
-I'm a web and mobile developer, content creator and awarded public speaker. I build pixel-perfect and performant applications. Check out my portfolio here: [markmaksi.com](https://markmaksi.com/)
+I'm a web developer, content creator and awarded public speaker. My personal mission is to get junior developers beyond the coding bootcamp and teach how to build a digital product from code to production. Check out my blog and YouTube channel for timeless content: https://linktr.ee/markmaksi
 
 * 🌍  I'm based in Novara, Italy
-* 🧠  I'm preparing for AWS Cloud Practicioner and Solutions Architect certificate :)
+* 🧠  I'm preparing content on full stack development for my YouTube channel: https://www.youtube.com/@markmaksi :)
 * 🤝  I'm open to collaborating on any project with a passionate team.
 
 <a href="https://www.github.com/mmaksi" target="_blank" rel="noreferrer"><img
